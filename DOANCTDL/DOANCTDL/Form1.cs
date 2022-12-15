@@ -124,8 +124,8 @@ namespace DOANCTDL
             //intialze
             nudLevel.Enabled = false; // khong cho thay doi so luong dia
             btnGiveIn.Enabled = true;  // cho bam nut chiu thua
-
-            btnPause.Visible = true; /*ban dau la false*/
+            btnPause.Enabled = true;
+            
 
             // btnGiveIn.Enable= true;  // cho bam nut chiu thua
             btnPlay.Text = "Chơi Lại"; // chuyen doi nut choi thanh choi lai

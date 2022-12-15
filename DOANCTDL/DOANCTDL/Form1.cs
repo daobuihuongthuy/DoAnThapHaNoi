@@ -16,7 +16,7 @@ namespace DOANCTDL
         int moveCount;
         PictureBox[] disks;
         Stack<PictureBox> disksA, disksB, disksC, firstClickDisks, secondClickedDisks;
-        const int FIRSTY = 800; // hang so mac dinh vi tri toa do y
+        const int FIRSTY = 750; // hang so mac dinh vi tri toa do y
         const int DISKHEIGHT = 40; // DO CAO DIA
         
         public Form1()

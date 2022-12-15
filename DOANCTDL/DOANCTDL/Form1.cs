@@ -140,6 +140,7 @@ namespace DOANCTDL
                 y = y - DISKHEIGHT;
             }
             tmrCountTime.Start();
+            btn Pause.Enabled= true;
         }
 
         private void ProcessMovingDisk(PictureBox clickedRod)
